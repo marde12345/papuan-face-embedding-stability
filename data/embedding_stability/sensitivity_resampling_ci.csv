@@ -1,0 +1,73 @@
+scheme,n_clusters,statistic,point_estimate,ci95_low,ci95_high,ci_width,zero
+pair_level_primary,n/a (pairs),A-B1_paired_median_diff,-0.0542,-0.0654,-0.0415,0.0239,excludes 0
+pair_level_primary,n/a (pairs),A-B1_median_of_X_minus_median_of_Y,-0.0775,-0.0964,-0.0582,0.0382,excludes 0
+pair_level_primary,n/a (pairs),B3-B1_paired_median_diff,-0.0563,-0.0621,-0.0514,0.0107,excludes 0
+pair_level_primary,n/a (pairs),B3-B1_median_of_X_minus_median_of_Y,-0.0787,-0.0935,-0.0589,0.0345,excludes 0
+pair_level_primary,n/a (pairs),A-B3_paired_median_diff,0.0038,-0.0076,0.0133,0.0209,includes 0
+pair_level_primary,n/a (pairs),A-B3_median_of_X_minus_median_of_Y,0.0012,-0.0242,0.0175,0.0417,includes 0
+pair_level_primary,n/a (pairs),A-B1_auc_diff,-0.0073,-0.0140,-0.0018,0.0122,excludes 0
+pair_level_primary,n/a (pairs),A-B1_dprime_diff,-0.6183,-0.8071,-0.4538,0.3533,excludes 0
+pair_level_primary,n/a (pairs),B3-B1_auc_diff,-0.0033,-0.0082,0.0013,0.0096,includes 0
+pair_level_primary,n/a (pairs),B3-B1_dprime_diff,-0.3874,-0.5382,-0.2619,0.2763,excludes 0
+pair_level_primary,n/a (pairs),A-B3_auc_diff,-0.0040,-0.0114,0.0027,0.0140,includes 0
+pair_level_primary,n/a (pairs),A-B3_dprime_diff,-0.2309,-0.3850,-0.0862,0.2988,excludes 0
+tracklet_linkage_only,607,A-B1_paired_median_diff,-0.0542,-0.0652,-0.0399,0.0253,excludes 0
+tracklet_linkage_only,607,A-B1_median_of_X_minus_median_of_Y,-0.0775,-0.0954,-0.0585,0.0370,excludes 0
+tracklet_linkage_only,607,B3-B1_paired_median_diff,-0.0563,-0.0620,-0.0506,0.0114,excludes 0
+tracklet_linkage_only,607,B3-B1_median_of_X_minus_median_of_Y,-0.0787,-0.0928,-0.0591,0.0337,excludes 0
+tracklet_linkage_only,607,A-B3_paired_median_diff,0.0038,-0.0076,0.0133,0.0209,includes 0
+tracklet_linkage_only,607,A-B3_median_of_X_minus_median_of_Y,0.0012,-0.0250,0.0177,0.0427,includes 0
+tracklet_linkage_only,607,A-B1_auc_diff,-0.0073,-0.0137,-0.0014,0.0123,excludes 0
+tracklet_linkage_only,607,A-B1_dprime_diff,-0.6183,-0.8024,-0.4600,0.3424,excludes 0
+tracklet_linkage_only,607,B3-B1_auc_diff,-0.0033,-0.0078,0.0016,0.0094,includes 0
+tracklet_linkage_only,607,B3-B1_dprime_diff,-0.3874,-0.5227,-0.2569,0.2657,excludes 0
+tracklet_linkage_only,607,A-B3_auc_diff,-0.0040,-0.0114,0.0022,0.0136,includes 0
+tracklet_linkage_only,607,A-B3_dprime_diff,-0.2309,-0.3836,-0.0982,0.2854,excludes 0
+linkage+repeat,575,A-B1_paired_median_diff,-0.0542,-0.0654,-0.0399,0.0255,excludes 0
+linkage+repeat,575,A-B1_median_of_X_minus_median_of_Y,-0.0775,-0.0966,-0.0585,0.0382,excludes 0
+linkage+repeat,575,B3-B1_paired_median_diff,-0.0563,-0.0619,-0.0506,0.0113,excludes 0
+linkage+repeat,575,B3-B1_median_of_X_minus_median_of_Y,-0.0787,-0.0929,-0.0574,0.0355,excludes 0
+linkage+repeat,575,A-B3_paired_median_diff,0.0038,-0.0077,0.0135,0.0212,includes 0
+linkage+repeat,575,A-B3_median_of_X_minus_median_of_Y,0.0012,-0.0252,0.0177,0.0430,includes 0
+linkage+repeat,575,A-B1_auc_diff,-0.0073,-0.0149,-0.0010,0.0140,excludes 0
+linkage+repeat,575,A-B1_dprime_diff,-0.6183,-0.8125,-0.4583,0.3541,excludes 0
+linkage+repeat,575,B3-B1_auc_diff,-0.0033,-0.0079,0.0013,0.0092,includes 0
+linkage+repeat,575,B3-B1_dprime_diff,-0.3874,-0.5351,-0.2629,0.2722,excludes 0
+linkage+repeat,575,A-B3_auc_diff,-0.0040,-0.0118,0.0024,0.0142,includes 0
+linkage+repeat,575,A-B3_dprime_diff,-0.2309,-0.3792,-0.0994,0.2798,excludes 0
+window_10s+linkage+repeat,150,A-B1_paired_median_diff,-0.0542,-0.0662,-0.0349,0.0313,excludes 0
+window_10s+linkage+repeat,150,A-B1_median_of_X_minus_median_of_Y,-0.0775,-0.0980,-0.0589,0.0390,excludes 0
+window_10s+linkage+repeat,150,B3-B1_paired_median_diff,-0.0563,-0.0621,-0.0506,0.0115,excludes 0
+window_10s+linkage+repeat,150,B3-B1_median_of_X_minus_median_of_Y,-0.0787,-0.0919,-0.0555,0.0365,excludes 0
+window_10s+linkage+repeat,150,A-B3_paired_median_diff,0.0038,-0.0089,0.0156,0.0245,includes 0
+window_10s+linkage+repeat,150,A-B3_median_of_X_minus_median_of_Y,0.0012,-0.0297,0.0164,0.0461,includes 0
+window_10s+linkage+repeat,150,A-B1_auc_diff,-0.0073,-0.0141,-0.0022,0.0119,excludes 0
+window_10s+linkage+repeat,150,A-B1_dprime_diff,-0.6183,-0.8007,-0.4717,0.3289,excludes 0
+window_10s+linkage+repeat,150,B3-B1_auc_diff,-0.0033,-0.0086,0.0015,0.0101,includes 0
+window_10s+linkage+repeat,150,B3-B1_dprime_diff,-0.3874,-0.5241,-0.2589,0.2652,excludes 0
+window_10s+linkage+repeat,150,A-B3_auc_diff,-0.0040,-0.0115,0.0028,0.0143,includes 0
+window_10s+linkage+repeat,150,A-B3_dprime_diff,-0.2309,-0.4013,-0.0760,0.3254,excludes 0
+window_30s+linkage+repeat,87,A-B1_paired_median_diff,-0.0542,-0.0669,-0.0341,0.0328,excludes 0
+window_30s+linkage+repeat,87,A-B1_median_of_X_minus_median_of_Y,-0.0775,-0.0972,-0.0581,0.0391,excludes 0
+window_30s+linkage+repeat,87,B3-B1_paired_median_diff,-0.0563,-0.0621,-0.0492,0.0129,excludes 0
+window_30s+linkage+repeat,87,B3-B1_median_of_X_minus_median_of_Y,-0.0787,-0.0924,-0.0556,0.0368,excludes 0
+window_30s+linkage+repeat,87,A-B3_paired_median_diff,0.0038,-0.0095,0.0158,0.0254,includes 0
+window_30s+linkage+repeat,87,A-B3_median_of_X_minus_median_of_Y,0.0012,-0.0296,0.0172,0.0467,includes 0
+window_30s+linkage+repeat,87,A-B1_auc_diff,-0.0073,-0.0133,-0.0024,0.0110,excludes 0
+window_30s+linkage+repeat,87,A-B1_dprime_diff,-0.6183,-0.8081,-0.4539,0.3542,excludes 0
+window_30s+linkage+repeat,87,B3-B1_auc_diff,-0.0033,-0.0090,0.0019,0.0109,includes 0
+window_30s+linkage+repeat,87,B3-B1_dprime_diff,-0.3874,-0.5480,-0.2412,0.3069,excludes 0
+window_30s+linkage+repeat,87,A-B3_auc_diff,-0.0040,-0.0112,0.0024,0.0135,includes 0
+window_30s+linkage+repeat,87,A-B3_dprime_diff,-0.2309,-0.4130,-0.0629,0.3502,excludes 0
+window_60s+linkage+repeat,53,A-B1_paired_median_diff,-0.0542,-0.0674,-0.0317,0.0357,excludes 0
+window_60s+linkage+repeat,53,A-B1_median_of_X_minus_median_of_Y,-0.0775,-0.0980,-0.0567,0.0413,excludes 0
+window_60s+linkage+repeat,53,B3-B1_paired_median_diff,-0.0563,-0.0614,-0.0506,0.0108,excludes 0
+window_60s+linkage+repeat,53,B3-B1_median_of_X_minus_median_of_Y,-0.0787,-0.0903,-0.0553,0.0350,excludes 0
+window_60s+linkage+repeat,53,A-B3_paired_median_diff,0.0038,-0.0102,0.0156,0.0258,includes 0
+window_60s+linkage+repeat,53,A-B3_median_of_X_minus_median_of_Y,0.0012,-0.0296,0.0165,0.0461,includes 0
+window_60s+linkage+repeat,53,A-B1_auc_diff,-0.0073,-0.0153,-0.0021,0.0131,excludes 0
+window_60s+linkage+repeat,53,A-B1_dprime_diff,-0.6183,-0.7775,-0.4789,0.2985,excludes 0
+window_60s+linkage+repeat,53,B3-B1_auc_diff,-0.0033,-0.0084,0.0002,0.0086,includes 0
+window_60s+linkage+repeat,53,B3-B1_dprime_diff,-0.3874,-0.5130,-0.2749,0.2381,excludes 0
+window_60s+linkage+repeat,53,A-B3_auc_diff,-0.0040,-0.0116,0.0017,0.0133,includes 0
+window_60s+linkage+repeat,53,A-B3_dprime_diff,-0.2309,-0.3789,-0.0918,0.2871,excludes 0

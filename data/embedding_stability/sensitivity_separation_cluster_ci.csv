@@ -1,0 +1,7 @@
+statistic,point_estimate,ci95_low,ci95_high,n_boot,seed,unit
+A-B1_auc,-0.0073,-0.0137,-0.0014,2000,20261118,tracklet cluster
+A-B1_dprime,-0.6183,-0.8024,-0.4600,2000,20261118,tracklet cluster
+B3-B1_auc,-0.0033,-0.0078,0.0016,2000,20261118,tracklet cluster
+B3-B1_dprime,-0.3874,-0.5227,-0.2569,2000,20261118,tracklet cluster
+A-B3_auc,-0.0040,-0.0114,0.0022,2000,20261118,tracklet cluster
+A-B3_dprime,-0.2309,-0.3836,-0.0982,2000,20261118,tracklet cluster
